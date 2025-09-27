@@ -7,43 +7,43 @@ The dataset includes information on claim amounts, claim types, policy types, cl
 
 ## Dashboard Overview & Key Visualizations
 
-1.Total Claim Amount by Rain Category
+## 1.Total Claim Amount by Rain Category
 
 Displays the total monetary value of claims grouped by different rain categories (e.g., light, moderate, heavy).
 
 Helps in understanding which rain intensity results in higher financial exposure for insurance companies.
 
-2.Distribution of Claims by Type
+## 2.Distribution of Claims by Type
 
 Shows the count of claims categorized by claim type (e.g., property damage, vehicle damage).
 
 Useful to identify the most common types of claims arising due to rain events.
 
-3.Distribution of Claims by Status
+## 3.Distribution of Claims by Status
 
 Visualizes claims by their current status (e.g., approved, pending, rejected).
 
 Allows tracking the resolution efficiency and pending claims backlog.
 
-4.Total Claim Amount by State
+## 4.Total Claim Amount by State
 
 Illustrates the total claim amount across different states.
 
 Enables geographical analysis of rain-related insurance claims and identification of high-risk regions.
 
-4.Count of Claims by Type and Status
+## 5.Count of Claims by Type and Status
 
 Provides a combined view showing how many claims of each type fall under each status.
 
 Assists in evaluating operational efficiency and claim resolution trends.
 
-5.Fraud vs Non-Fraud Claims Percentage
+## 6.Fraud vs Non-Fraud Claims Percentage
 
 Depicts the proportion of fraudulent claims compared to genuine claims.
 
 Crucial for understanding the risk of fraudulent activities and implementing preventive measures.
 
-6.Average Claim Amount by Claim Type
+## 7.Average Claim Amount by Claim Type
 
 Shows the average monetary value of claims for each claim type.
 
